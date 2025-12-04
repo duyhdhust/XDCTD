@@ -1,0 +1,4 @@
+*.o
+parser
+.DS_Store
+*.exe
